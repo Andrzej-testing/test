@@ -29,4 +29,4 @@ pipeline:
     file: Dockerfile
     when:
       event: [tag]
-      status: [success]
+      status: [success] 
